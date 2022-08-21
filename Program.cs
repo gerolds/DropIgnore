@@ -1,4 +1,5 @@
-﻿using System.Collections.ObjectModel;
+﻿using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Management.Automation;
 using System.Management.Automation.Runspaces;
@@ -10,7 +11,7 @@ namespace DropboxIgnore;
 
 public class Program
 {
-    private const string IgnoreFileName = ".dropboxIgnore";
+    private const string IgnoreFileName = ".dropIgnore";
 
     [Verb("ignore", HelpText = "Ignore paths")]
     public class IgnoreOptions
