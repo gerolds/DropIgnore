@@ -1,0 +1,4 @@
+C:\Users\gerold\__Projects\Play\DropboxIgnore\DropboxIgnore\DropboxIgnore\bin\Release\net6.0\win-x86\publish\DropboxIgnore.pdb
+C:\Users\gerold\__Projects\Play\DropboxIgnore\DropboxIgnore\DropboxIgnore\bin\Release\net6.0\win-x86\publish\PowerShell.Core.Instrumentation.dll
+C:\Users\gerold\__Projects\Play\DropboxIgnore\DropboxIgnore\DropboxIgnore\bin\Release\net6.0\win-x86\publish\pwrshplugin.dll
+C:\Users\gerold\__Projects\Play\DropboxIgnore\DropboxIgnore\DropboxIgnore\bin\Release\net6.0\win-x86\publish\DropboxIgnore.exe
